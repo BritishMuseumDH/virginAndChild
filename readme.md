@@ -12,3 +12,5 @@ Daniel Pett
 ORCID: [0000-0002-0246-2335](http://orcid.org/0000-0002-0246-2335)
 
 Lloyd de Beer
+
+[![DOI](https://zenodo.org/badge/76194332.svg)](https://zenodo.org/badge/latestdoi/76194332)
